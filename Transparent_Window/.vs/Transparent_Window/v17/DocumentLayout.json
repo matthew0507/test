@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PokemonWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PokemonWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Anticaptre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Anticaptre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PokemonType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PathHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PathHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\ImageHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImageHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\AppSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\NotifyPropertyChanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotifyPropertyChanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Transparent_Window.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transparent_Window.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrawWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrawWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "ImageHelper.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\ImageHelper.cs",
+              "RelativeToolTip": "ImageHelper.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAswEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:41:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PathHelper.cs",
+              "RelativeDocumentMoniker": "PathHelper.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PathHelper.cs",
+              "RelativeToolTip": "PathHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:57:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonType.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonType.cs",
+              "RelativeDocumentMoniker": "PokemonType.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonType.cs",
+              "RelativeToolTip": "PokemonType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:57:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PokemonWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml.cs",
+              "RelativeToolTip": "PokemonWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswDYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:46:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anticaptre.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Anticaptre.cs",
+              "RelativeDocumentMoniker": "Anticaptre.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Anticaptre.cs",
+              "RelativeToolTip": "Anticaptre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:30:07.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml",
+              "RelativeDocumentMoniker": "PokemonWindow.xaml",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\PokemonWindow.xaml",
+              "RelativeToolTip": "PokemonWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T08:40:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:26:56.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T00:26:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:38:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\AppSetting.cs",
+              "RelativeDocumentMoniker": "AppSetting.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\AppSetting.cs",
+              "RelativeToolTip": "AppSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:27:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:42:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotifyPropertyChanged.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\NotifyPropertyChanged.cs",
+              "RelativeDocumentMoniker": "NotifyPropertyChanged.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\NotifyPropertyChanged.cs",
+              "RelativeToolTip": "NotifyPropertyChanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:57:51.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transparent_Window.csproj",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Transparent_Window.csproj",
+              "RelativeDocumentMoniker": "Transparent_Window.csproj",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\Transparent_Window.csproj",
+              "RelativeToolTip": "Transparent_Window.csproj",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T00:57:35.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T08:42:26.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-22T04:52:44.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrawWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DrawWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml.cs",
+              "RelativeToolTip": "DrawWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:27:39.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DrawWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml",
+              "RelativeDocumentMoniker": "DrawWindow.xaml",
+              "ToolTip": "C:\\Users\\\uC0AC\uC774\uBC84\uBCF4\uC548\uC13C\uD130PC-15\\\uB274\uCF54\uB4DC\\code_check-c472a7885fda71a852e7677818303faf47a455b0\\Transparent_Window\\DrawWindow.xaml",
+              "RelativeToolTip": "DrawWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T00:27:32.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
